@@ -10,7 +10,9 @@ Gemini Clone is a project designed to replicate the functionality of Gemini,<br>
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/116457df-7e58-4c5b-8443-4d889e7aec1c" alt="Gemini Clone Demo" />
+
+  <img alt="Screenshot 2025-09-30 003332" src="https://github.com/user-attachments/assets/952b4270-d165-4824-94d7-d4d4af041412" />
+
 </div>
 
 
